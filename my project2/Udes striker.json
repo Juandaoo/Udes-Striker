@@ -623,6 +623,22 @@
         "name": "Fondos/Personajes seleccionador/Jeins/PERSONAJE_07_frame_4_movimiento_abajo.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Jeins/arma/image.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jeins/arma/image.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Jeins/arma/1794587218663.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jeins/arma/1794587218663.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -634,8 +650,15 @@
   "variables": [
     {
       "name": "SelectedCharacter",
+      "persistentUuid": "fbd56d20-fc1b-4b0a-9fc9-ef9e0b7c7014",
       "type": "string",
       "value": ""
+    },
+    {
+      "name": "TieneMuletas",
+      "persistentUuid": "3b9a973f-a071-44b2-8712-83ed1243d3aa",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -853,7 +876,7 @@
               },
               "parameters": [
                 "",
-                "\"Escena inicial\"",
+                "\"Selector\"",
                 ""
               ]
             }
@@ -2747,7 +2770,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3192894589690188,
+        "zoomFactor": 0.6406912462476525,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -2782,8 +2805,8 @@
           "name": "Jeins",
           "persistentUuid": "e298f80b-39ee-4a51-bf2a-b70f26c24dcf",
           "width": 297,
-          "x": 437,
-          "y": 757,
+          "x": 665,
+          "y": 934,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2890,6 +2913,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 207,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Muletas",
+          "persistentUuid": "a1a557b5-25c7-468a-877c-cc76b1ebce9d",
+          "width": 186,
+          "x": 906,
+          "y": 903,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2952,11 +2992,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Jeins/1794491316410.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2988,11 +3034,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Jeins/image (2) (1).png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3037,11 +3089,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Jeins/1794491539082.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3073,11 +3131,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Jeins/1794491335988.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3109,11 +3173,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Jeins/1794491390095.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3145,11 +3215,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Jeins/1794491418345.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3193,11 +3269,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3229,11 +3311,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3277,11 +3365,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3313,11 +3407,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_3_parpadeo.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3349,11 +3449,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3397,11 +3503,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_4_movimiento_abajo.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3433,11 +3545,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3469,11 +3587,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_3_movimiento_arriba.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3505,11 +3629,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3553,11 +3683,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3589,11 +3725,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_2_sonrisa_suave.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3625,11 +3767,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_3_movimiento_arriba.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3673,11 +3821,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3709,11 +3863,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_2_sonrisa_suave.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3745,11 +3905,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_3_movimiento_arriba.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3781,11 +3947,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_4_regreso.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3829,11 +4001,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3865,11 +4043,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_2_sonrisa_suave.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3901,11 +4085,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Muleta",
+                          "x": 1028.5,
+                          "y": 1258.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 1047.5,
+                        "y": 1258.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4266,6 +4456,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Muletas",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Jeins/arma/1794587218663.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 352,
+                        "y": 352
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 172,
+                            "y": 141
+                          },
+                          {
+                            "x": 618,
+                            "y": 141
+                          },
+                          {
+                            "x": 618,
+                            "y": 698
+                          },
+                          {
+                            "x": 172,
+                            "y": 698
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4291,6 +4541,9 @@
           },
           {
             "objectName": "Fondo"
+          },
+          {
+            "objectName": "Muletas"
           }
         ]
       },
@@ -4421,7 +4674,19 @@
               ]
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jeins",
+                "Animation",
+                "=",
+                "\"Jeins caminando\""
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -4485,7 +4750,19 @@
               ]
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jeins",
+                "Animation",
+                "=",
+                "\"Jeins quieto\""
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -4619,6 +4896,113 @@
               },
               "parameters": [
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Arma Jeins\n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Space\""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jeins",
+                "Muletas",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Muletas",
+                "Jeins.X()",
+                "Jeins.Y()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "TieneMuletas",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "TieneMuletas",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "Muletas",
+                "=",
+                "Jeins.X() + 20",
+                "=",
+                "Jeins.Y() + 10"
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "Muletas",
+                "Scale",
+                "=",
+                "0.35"
               ]
             }
           ]
