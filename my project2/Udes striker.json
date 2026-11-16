@@ -639,6 +639,54 @@
         "name": "Jeins/arma/1794587218663.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Fondos/Cielo pantalla d inicio.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fondos/Cielo pantalla d inicio.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fondos/ciudad_edificios_fondo_transparente.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fondos/ciudad_edificios_fondo_transparente.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fondos/udes_striker_transparente.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fondos/udes_striker_transparente.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fondos/udes_striker_efectos_transparente.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fondos/udes_striker_efectos_transparente.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fondos/jugar_transparente.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fondos/jugar_transparente.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fondos/jugar_efectos_transparente.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fondos/jugar_efectos_transparente.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -685,7 +733,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.45985214267363295,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -697,15 +745,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 1083,
+          "height": 761,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "d80aec01-e9a7-413e-ad8c-58b376f92bf3",
-          "width": 1919,
-          "x": -1,
-          "y": -2,
-          "zOrder": 1,
+          "name": "NewSprite2",
+          "persistentUuid": "669e5e86-9573-411e-8130-ca6fb64a7cc7",
+          "width": 1947,
+          "x": -25,
+          "y": 323,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -714,15 +762,65 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 75,
+          "height": 1067,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "476ea656-a9fa-4428-803d-2e6a503aee99",
+          "width": 1930,
+          "x": 2,
+          "y": -377,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TItulo_videojuego",
+          "persistentUuid": "08aee3e8-eb62-4d9f-97c9-d4a84b84960e",
+          "width": 0,
+          "x": 454,
+          "y": -127,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 415,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "4e70200f-2abc-4742-9ebe-62e43b69d326",
+          "width": 740,
+          "x": 586,
+          "y": 670,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 137,
           "keepRatio": true,
           "layer": "",
           "name": "BotonJugar",
-          "persistentUuid": "0e8e3845-cb1b-4531-9fa6-1b6af72f39d9",
-          "width": 698,
-          "x": 603,
-          "y": 975,
-          "zOrder": 2,
+          "persistentUuid": "146943f5-a3ac-4aec-aa10-d1e4c9e3850b",
+          "width": 345,
+          "x": 812,
+          "y": 890,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -794,13 +892,14 @@
           "bold": false,
           "italic": false,
           "name": "BotonJugar",
+          "persistentUuid": "742ccb5a-a256-4ca2-ad01-6693ffa1af7a",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "JUGAR",
+          "string": "                 \n",
           "font": "",
           "textAlignment": "center",
           "characterSize": 60,
@@ -823,7 +922,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "JUGAR",
+            "text": "                 \n",
             "font": "",
             "textAlignment": "center",
             "verticalTextAlignment": "center",
@@ -831,6 +930,285 @@
             "lineHeight": 0,
             "color": "250;231;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "persistentUuid": "71b8e8b4-7051-4bbe-8b6c-213210e0fd11",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fondos/ciudad_edificios_fondo_transparente.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1024,
+                            "y": 0
+                          },
+                          {
+                            "x": 1024,
+                            "y": 572
+                          },
+                          {
+                            "x": 0,
+                            "y": 572
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "persistentUuid": "c2e99d71-882e-4611-b9e4-106d5d2ebee2",
+          "texture": "Fondos/Cielo pantalla d inicio.jpg",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "TItulo_videojuego",
+          "persistentUuid": "f1696ae3-604b-494c-a8de-0557218c1c63",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fondos/udes_striker_transparente.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 56,
+                            "y": 188
+                          },
+                          {
+                            "x": 1024,
+                            "y": 188
+                          },
+                          {
+                            "x": 1024,
+                            "y": 765
+                          },
+                          {
+                            "x": 56,
+                            "y": 765
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fondos/udes_striker_efectos_transparente.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 56,
+                            "y": 188
+                          },
+                          {
+                            "x": 1024,
+                            "y": 188
+                          },
+                          {
+                            "x": 1024,
+                            "y": 765
+                          },
+                          {
+                            "x": 56,
+                            "y": 765
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "persistentUuid": "a421e021-d50e-4b26-906c-417f4f8f456a",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fondos/jugar_transparente.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 196,
+                            "y": 169
+                          },
+                          {
+                            "x": 828,
+                            "y": 169
+                          },
+                          {
+                            "x": 828,
+                            "y": 408
+                          },
+                          {
+                            "x": 196,
+                            "y": 408
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fondos/jugar_efectos_transparente.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 196,
+                            "y": 169
+                          },
+                          {
+                            "x": 828,
+                            "y": 169
+                          },
+                          {
+                            "x": 828,
+                            "y": 408
+                          },
+                          {
+                            "x": 196,
+                            "y": 408
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -840,7 +1218,19 @@
             "objectName": "NewSprite"
           },
           {
+            "objectName": "NewSprite2"
+          },
+          {
             "objectName": "BotonJugar"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "TItulo_videojuego"
+          },
+          {
+            "objectName": "NewSprite3"
           }
         ]
       },
@@ -878,6 +1268,81 @@
                 "",
                 "\"Selector\"",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "NewTiledSprite",
+                "+",
+                "10 * TimeDelta()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "NewSprite3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "NewSprite3",
+                "Animation",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "NewSprite3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "NewSprite3",
+                "Animation",
+                "=",
+                "0"
               ]
             }
           ]
