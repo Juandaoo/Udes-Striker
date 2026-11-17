@@ -687,24 +687,2675 @@
         "name": "Fondos/jugar_efectos_transparente.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Juan/parado/1794840844878.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/parado/1794840844878.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/parado/1794840866906.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/parado/1794840866906.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/parado/Gemini_Generated_Image_vtmz7zvtmz7zvtmz.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/parado/Gemini_Generated_Image_vtmz7zvtmz7zvtmz.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/parado/1794840856397.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/parado/1794840856397.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/caminar/1794679379134.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/caminar/1794679379134.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/caminar/1794679388118.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/caminar/1794679388118.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/caminar/1794679405019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/caminar/1794679405019.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ismael/camina/1794498872783.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ismael/camina/1794498872783.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ismael/camina/1794498897833.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ismael/camina/1794498897833.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ismael/parado/1794587757402.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ismael/parado/1794587757402.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ismael/parado/1794587767150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ismael/parado/1794587767150.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ismael/camina/Cross-Stepping Soccer Sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ismael/camina/Cross-Stepping Soccer Sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/camina/1794680896351.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/camina/1794680896351.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/camina/1794680932140.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/camina/1794680932140.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/camina/1794681067933.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/camina/1794681067933.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/camina/1794681152608.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/camina/1794681152608.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/camina/1794681171398.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/camina/1794681171398.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/camina/1794681187618.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/camina/1794681187618.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/Salto/1794840819692.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/Salto/1794840819692.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/Salto/1794840830658.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/Salto/1794840830658.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/daño/1794679530294.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/daño/1794679530294.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/muerte/1794679530294.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/muerte/1794679530294.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/muerte/1794679547312.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/muerte/1794679547312.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/arma/1794586903302.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/arma/1794586903302.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Val/arma/1794586357121.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Val/arma/1794586357121.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Juan/arma/1794840915660.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Juan/arma/1794840915660.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT"
-  },
-  "objectsGroups": [],
-  "variables": [
+  "objects": [
     {
-      "name": "SelectedCharacter",
-      "persistentUuid": "fbd56d20-fc1b-4b0a-9fc9-ef9e0b7c7014",
-      "type": "string",
-      "value": ""
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Sebas",
+      "persistentUuid": "62b0f4af-f409-45b4-a545-840db70852af",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "1619a302-13f7-44ed-8116-fabb617c70d3",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+          "EnableAnimationChanges": true,
+          "EnableHorizontalFlipping": true,
+          "IdleAnimationName": "Idle",
+          "RunAnimationName": "Run",
+          "JumpAnimationName": "Jump",
+          "FallAnimationName": "Fall",
+          "ClimbAnimationName": "Climb",
+          "PlatformerBehavior": "PlatformerObject",
+          "Animation": "Animation",
+          "Flippable": "Flippable"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 74,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 349
+                      },
+                      {
+                        "x": 74,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_2_sonrisa_suave.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 74,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 349
+                      },
+                      {
+                        "x": 74,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_3_movimiento_arriba.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 74,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 349
+                      },
+                      {
+                        "x": 74,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_4_regreso.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 74,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 46
+                      },
+                      {
+                        "x": 349,
+                        "y": 349
+                      },
+                      {
+                        "x": 74,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Ismael",
+      "persistentUuid": "f68370e2-313f-4553-b2cf-9071f9727c6a",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "233d544e-cd76-4a06-b1fc-8965ef643341",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+          "EnableAnimationChanges": true,
+          "EnableHorizontalFlipping": true,
+          "IdleAnimationName": "Idle",
+          "RunAnimationName": "Run",
+          "JumpAnimationName": "Jump",
+          "FallAnimationName": "Fall",
+          "ClimbAnimationName": "Climb",
+          "PlatformerBehavior": "PlatformerObject",
+          "Animation": "Animation",
+          "Flippable": "Flippable"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "parado",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ismael/parado/1794587757402.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ismael/parado/1794587767150.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "camina",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ismael/camina/1794498872783.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ismael/camina/Cross-Stepping Soccer Sprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ismael/camina/1794498897833.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 10
+                      },
+                      {
+                        "x": 381,
+                        "y": 367
+                      },
+                      {
+                        "x": 17,
+                        "y": 367
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Santiago",
+      "persistentUuid": "5174557f-d74b-4c83-af75-0aaf2fa51e62",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "7bf7c8d0-5d86-4d8a-b3f1-63e0a7713905",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+          "EnableAnimationChanges": true,
+          "EnableHorizontalFlipping": true,
+          "IdleAnimationName": "Idle",
+          "RunAnimationName": "Run",
+          "JumpAnimationName": "Jump",
+          "FallAnimationName": "Fall",
+          "ClimbAnimationName": "Climb",
+          "PlatformerBehavior": "PlatformerObject",
+          "Animation": "Animation",
+          "Flippable": "Flippable"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "1_original",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 91,
+                        "y": 48
+                      },
+                      {
+                        "x": 341,
+                        "y": 48
+                      },
+                      {
+                        "x": 341,
+                        "y": 352
+                      },
+                      {
+                        "x": 91,
+                        "y": 352
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_3_parpadeo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 91,
+                        "y": 48
+                      },
+                      {
+                        "x": 341,
+                        "y": 48
+                      },
+                      {
+                        "x": 341,
+                        "y": 352
+                      },
+                      {
+                        "x": 91,
+                        "y": 352
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 91,
+                        "y": 48
+                      },
+                      {
+                        "x": 341,
+                        "y": 48
+                      },
+                      {
+                        "x": 341,
+                        "y": 352
+                      },
+                      {
+                        "x": 91,
+                        "y": 352
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Juan",
+      "persistentUuid": "65dbcdac-9bb1-4323-8aa2-7734d9a137a9",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "9ae55507-aac5-4543-a330-668a7f436956",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+          "EnableAnimationChanges": true,
+          "EnableHorizontalFlipping": true,
+          "IdleAnimationName": "Idle",
+          "RunAnimationName": "Run",
+          "JumpAnimationName": "Jump",
+          "FallAnimationName": "Fall",
+          "ClimbAnimationName": "Climb",
+          "PlatformerBehavior": "PlatformerObject",
+          "Animation": "Animation",
+          "Flippable": "Flippable"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "1_original",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 303
+                      },
+                      {
+                        "x": 19,
+                        "y": 303
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_2_sonrisa_suave.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 303
+                      },
+                      {
+                        "x": 19,
+                        "y": 303
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_3_movimiento_arriba.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 303
+                      },
+                      {
+                        "x": 19,
+                        "y": 303
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_4_movimiento_abajo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 27
+                      },
+                      {
+                        "x": 271,
+                        "y": 303
+                      },
+                      {
+                        "x": 19,
+                        "y": 303
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "parado",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/parado/1794840844878.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 160,
+                        "y": 110
+                      },
+                      {
+                        "x": 765,
+                        "y": 110
+                      },
+                      {
+                        "x": 765,
+                        "y": 1050
+                      },
+                      {
+                        "x": 160,
+                        "y": 1050
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/parado/1794840866906.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 160,
+                        "y": 110
+                      },
+                      {
+                        "x": 765,
+                        "y": 110
+                      },
+                      {
+                        "x": 765,
+                        "y": 1050
+                      },
+                      {
+                        "x": 160,
+                        "y": 1050
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/parado/1794840856397.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 160,
+                        "y": 110
+                      },
+                      {
+                        "x": 765,
+                        "y": 110
+                      },
+                      {
+                        "x": 765,
+                        "y": 1050
+                      },
+                      {
+                        "x": 160,
+                        "y": 1050
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "camina",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/caminar/1794679379134.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169,
+                        "y": 102
+                      },
+                      {
+                        "x": 756,
+                        "y": 108
+                      },
+                      {
+                        "x": 750.5,
+                        "y": 1045.5
+                      },
+                      {
+                        "x": 177.5,
+                        "y": 1048.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/caminar/1794679405019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169,
+                        "y": 102
+                      },
+                      {
+                        "x": 756,
+                        "y": 108
+                      },
+                      {
+                        "x": 750.5,
+                        "y": 1045.5
+                      },
+                      {
+                        "x": 177.5,
+                        "y": 1048.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/caminar/1794679388118.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169,
+                        "y": 102
+                      },
+                      {
+                        "x": 756,
+                        "y": 108
+                      },
+                      {
+                        "x": 750.5,
+                        "y": 1045.5
+                      },
+                      {
+                        "x": 177.5,
+                        "y": 1048.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "salta",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/Salto/1794840819692.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 121,
+                        "y": 108
+                      },
+                      {
+                        "x": 797,
+                        "y": 112
+                      },
+                      {
+                        "x": 797,
+                        "y": 1067.5
+                      },
+                      {
+                        "x": 118,
+                        "y": 1069
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/Salto/1794840830658.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 121,
+                        "y": 108
+                      },
+                      {
+                        "x": 797,
+                        "y": 112
+                      },
+                      {
+                        "x": 797,
+                        "y": 1067.5
+                      },
+                      {
+                        "x": 118,
+                        "y": 1069
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "daño",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/daño/1794679530294.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "muerte",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/muerte/1794679547312.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "golpear",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/arma/1794840915660.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 148.5,
+                        "y": 92
+                      },
+                      {
+                        "x": 888.5,
+                        "y": 94.5
+                      },
+                      {
+                        "x": 887,
+                        "y": 1047
+                      },
+                      {
+                        "x": 157,
+                        "y": 1047
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Miguel",
+      "persistentUuid": "8471df0a-255d-47ce-94fd-2e3a2bff8a81",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "2150c1ca-c145-4116-9963-d8aab5dc3e26",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+          "EnableAnimationChanges": true,
+          "EnableHorizontalFlipping": true,
+          "IdleAnimationName": "Idle",
+          "RunAnimationName": "Run",
+          "JumpAnimationName": "Jump",
+          "FallAnimationName": "Fall",
+          "ClimbAnimationName": "Climb",
+          "PlatformerBehavior": "PlatformerObject",
+          "Animation": "Animation",
+          "Flippable": "Flippable"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 35,
+                        "y": 46
+                      },
+                      {
+                        "x": 348,
+                        "y": 46
+                      },
+                      {
+                        "x": 348,
+                        "y": 349
+                      },
+                      {
+                        "x": 35,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_2_sonrisa_suave.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 35,
+                        "y": 46
+                      },
+                      {
+                        "x": 348,
+                        "y": 46
+                      },
+                      {
+                        "x": 348,
+                        "y": 349
+                      },
+                      {
+                        "x": 35,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_3_movimiento_arriba.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 35,
+                        "y": 46
+                      },
+                      {
+                        "x": 348,
+                        "y": 46
+                      },
+                      {
+                        "x": 348,
+                        "y": 349
+                      },
+                      {
+                        "x": 35,
+                        "y": 349
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Val",
+      "persistentUuid": "d078b46d-dc3b-49e0-a214-c33189080dbf",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "c00b17c5-5d4e-4339-b258-8ff59807cff2",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 356
+                      },
+                      {
+                        "x": 2,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_2_sonrisa_suave.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 356
+                      },
+                      {
+                        "x": 2,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 356
+                      },
+                      {
+                        "x": 2,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "parado",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": []
+            }
+          ]
+        },
+        {
+          "name": "camina",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Val/camina/1794681152608.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 356
+                      },
+                      {
+                        "x": 2,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Val/camina/1794681171398.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 356
+                      },
+                      {
+                        "x": 2,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Val/camina/1794681187618.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 2
+                      },
+                      {
+                        "x": 373,
+                        "y": 356
+                      },
+                      {
+                        "x": 2,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Jeins",
+      "persistentUuid": "c836c6ed-53f6-4e20-99c3-c70816360f45",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "estado",
+          "persistentUuid": "dc3ba586-b94d-43c8-a784-2838f1b9797a",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "parado",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.5,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/1794491316410.png",
+                  "points": [
+                    {
+                      "name": "Muleta",
+                      "x": 1028.5,
+                      "y": 1258.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1047.5,
+                    "y": 1258.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 283,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 1639
+                      },
+                      {
+                        "x": 283,
+                        "y": 1639
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/image (2) (1).png",
+                  "points": [
+                    {
+                      "name": "Muleta",
+                      "x": 1028.5,
+                      "y": 1258.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1047.5,
+                    "y": 1258.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 283,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 1639
+                      },
+                      {
+                        "x": 283,
+                        "y": 1639
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "camina",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/1794491539082.png",
+                  "points": [
+                    {
+                      "name": "Muleta",
+                      "x": 1028.5,
+                      "y": 1258.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1047.5,
+                    "y": 1258.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 283,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 1639
+                      },
+                      {
+                        "x": 283,
+                        "y": 1639
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/1794491335988.png",
+                  "points": [
+                    {
+                      "name": "Muleta",
+                      "x": 1028.5,
+                      "y": 1258.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1047.5,
+                    "y": 1258.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 283,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 1639
+                      },
+                      {
+                        "x": 283,
+                        "y": 1639
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/1794491390095.png",
+                  "points": [
+                    {
+                      "name": "Muleta",
+                      "x": 1028.5,
+                      "y": 1258.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1047.5,
+                    "y": 1258.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 283,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 1639
+                      },
+                      {
+                        "x": 283,
+                        "y": 1639
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/1794491418345.png",
+                  "points": [
+                    {
+                      "name": "Muleta",
+                      "x": 1028.5,
+                      "y": 1258.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1047.5,
+                    "y": 1258.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 283,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 129
+                      },
+                      {
+                        "x": 1219,
+                        "y": 1639
+                      },
+                      {
+                        "x": 283,
+                        "y": 1639
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "armajuan",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "DirX",
+          "persistentUuid": "7ab6ec93-a6cc-42f6-aad1-607166fdee12",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Juan/arma/1794586903302.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 129,
+                        "y": 139
+                      },
+                      {
+                        "x": 577,
+                        "y": 139
+                      },
+                      {
+                        "x": 577,
+                        "y": 716
+                      },
+                      {
+                        "x": 129,
+                        "y": 716
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "armajeins",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "DirX",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Jeins/arma/1794587218663.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 172,
+                        "y": 141
+                      },
+                      {
+                        "x": 618,
+                        "y": 141
+                      },
+                      {
+                        "x": 618,
+                        "y": 698
+                      },
+                      {
+                        "x": 172,
+                        "y": 698
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "armaval",
+      "persistentUuid": "214d2dbc-8154-48f4-ab59-c5fe6201a771",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "DirX",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Val/arma/1794586357121.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 89,
+                        "y": 93
+                      },
+                      {
+                        "x": 642,
+                        "y": 93
+                      },
+                      {
+                        "x": 642,
+                        "y": 692
+                      },
+                      {
+                        "x": 89,
+                        "y": 692
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Val"
+      },
+      {
+        "objectName": "Jeins"
+      },
+      {
+        "objectName": "Juan"
+      },
+      {
+        "objectName": "Sebas"
+      },
+      {
+        "objectName": "Ismael"
+      },
+      {
+        "objectName": "Santiago"
+      },
+      {
+        "objectName": "Miguel"
+      },
+      {
+        "objectName": "armajuan"
+      },
+      {
+        "objectName": "armajeins"
+      },
+      {
+        "objectName": "armaval"
+      }
+    ]
+  },
+  "objectsGroups": [
+    {
+      "name": "ProyectilesJugadores",
+      "objects": [
+        {
+          "name": "armajuan"
+        },
+        {
+          "name": "armajeins"
+        },
+        {
+          "name": "armaval"
+        }
+      ]
+    },
+    {
+      "name": "Jugadores",
+      "objects": [
+        {
+          "name": "Sebas"
+        },
+        {
+          "name": "Ismael"
+        },
+        {
+          "name": "Juan"
+        },
+        {
+          "name": "Miguel"
+        },
+        {
+          "name": "Jeins"
+        },
+        {
+          "name": "Santiago"
+        },
+        {
+          "name": "Val"
+        }
+      ]
+    }
+  ],
+  "variables": [
     {
       "name": "TieneMuletas",
       "persistentUuid": "3b9a973f-a071-44b2-8712-83ed1243d3aa",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PersonajeElegido",
+      "persistentUuid": "0657994f-25ef-457d-9056-1230de808444",
+      "type": "string",
+      "value": "Jeins"
+    },
+    {
+      "name": "EstaAtacando",
+      "persistentUuid": "612f5159-7c56-4566-8d6e-d21c471e56e3",
       "type": "number",
       "value": 0
     }
@@ -1436,6 +4087,14 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
           "name": "Resizable",
           "type": "ResizableCapability::ResizableBehavior"
         },
@@ -1472,7 +4131,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6846283916654043,
+        "zoomFactor": 0.4753585087126931,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1547,8 +4206,8 @@
           "name": "Seleccionador",
           "persistentUuid": "87d94459-b4ea-4436-a511-dd2a9da9eea1",
           "width": 346,
-          "x": 137,
-          "y": 471,
+          "x": 132,
+          "y": 472,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1570,8 +4229,8 @@
           "name": "Seleccionador",
           "persistentUuid": "e773f3fe-996f-45b4-90b1-58d8e21218ae",
           "width": 346,
-          "x": 580,
-          "y": 466,
+          "x": 574,
+          "y": 467,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1593,8 +4252,8 @@
           "name": "Seleccionador",
           "persistentUuid": "891cb73a-a713-4ca9-a44f-6d1c08541f25",
           "width": 346,
-          "x": 1039,
-          "y": 468,
+          "x": 1033,
+          "y": 469,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1639,8 +4298,8 @@
           "name": "Seleccionador",
           "persistentUuid": "1b4cf1cb-e443-4df3-b1b4-aa9e28c891c0",
           "width": 346,
-          "x": 1492,
-          "y": 471,
+          "x": 1486,
+          "y": 472,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1702,26 +4361,9 @@
           "name": "Santiago",
           "persistentUuid": "781cf8af-025e-4088-b1f1-1a3c67525177",
           "width": 426,
-          "x": 541,
-          "y": 140,
+          "x": 538,
+          "y": 139,
           "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 318,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Juan",
-          "persistentUuid": "26e2b18b-1835-48ee-bfcf-3accbf80efc5",
-          "width": 319,
-          "x": 824,
-          "y": 633,
-          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1784,12 +4426,62 @@
           "height": 287,
           "keepRatio": true,
           "layer": "",
-          "name": "Jeins",
+          "name": "CartaJeins",
           "persistentUuid": "de3203de-4bd8-4819-a394-63e812a45ecc",
           "width": 272,
           "x": 399,
           "y": 666,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "b3e2dad8-5920-42b5-9508-411483034a82",
+          "width": 0,
+          "x": 1710,
+          "y": 1178,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso2",
+          "persistentUuid": "34a1eccd-855b-4ea3-a450-3eb9f895ebbd",
+          "width": 943,
+          "x": 823,
+          "y": 936,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 314,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Juan",
+          "persistentUuid": "7da8a963-8b47-4dab-a592-e224297bbd46",
+          "width": 311,
+          "x": 830,
+          "y": 643,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1879,6 +4571,7 @@
           "variables": [
             {
               "name": "Character",
+              "persistentUuid": "9c5cb5ac-4e01-41d3-8269-ffa03a8841ac",
               "type": "string",
               "value": ""
             }
@@ -1987,840 +4680,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Ismael",
-          "persistentUuid": "f68370e2-313f-4553-b2cf-9071f9727c6a",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 367
-                          },
-                          {
-                            "x": 17,
-                            "y": 367
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 367
-                          },
-                          {
-                            "x": 17,
-                            "y": 367
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Santiago",
-          "persistentUuid": "5174557f-d74b-4c83-af75-0aaf2fa51e62",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "1_original",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 91,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 352
-                          },
-                          {
-                            "x": 91,
-                            "y": 352
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_3_parpadeo.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 91,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 352
-                          },
-                          {
-                            "x": 91,
-                            "y": 352
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 91,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 352
-                          },
-                          {
-                            "x": 91,
-                            "y": 352
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Juan",
-          "persistentUuid": "65dbcdac-9bb1-4323-8aa2-7734d9a137a9",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "4_movimiento_abajo",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_4_movimiento_abajo.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_3_movimiento_arriba.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Miguel",
-          "persistentUuid": "8471df0a-255d-47ce-94fd-2e3a2bff8a81",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 35,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 349
-                          },
-                          {
-                            "x": 35,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_2_sonrisa_suave.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 35,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 349
-                          },
-                          {
-                            "x": 35,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_3_movimiento_arriba.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 35,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 349
-                          },
-                          {
-                            "x": 35,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Sebas",
-          "persistentUuid": "62b0f4af-f409-45b4-a545-840db70852af",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_2_sonrisa_suave.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_3_movimiento_arriba.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_4_regreso.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Val",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 356
-                          },
-                          {
-                            "x": 2,
-                            "y": 356
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_2_sonrisa_suave.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 356
-                          },
-                          {
-                            "x": 2,
-                            "y": 356
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 356
-                          },
-                          {
-                            "x": 2,
-                            "y": 356
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Jeins",
+          "name": "CartaJeins",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2948,6 +4808,146 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "piso",
+          "persistentUuid": "0df13af6-cd9a-4030-a745-a001d1087685",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 37
+                          },
+                          {
+                            "x": 64,
+                            "y": 37
+                          },
+                          {
+                            "x": 64,
+                            "y": 38
+                          },
+                          {
+                            "x": 0,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "piso2",
+          "persistentUuid": "1767fa40-3fc1-463f-b4b8-bf105202661a",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 37
+                          },
+                          {
+                            "x": 64,
+                            "y": 37
+                          },
+                          {
+                            "x": 64,
+                            "y": 38
+                          },
+                          {
+                            "x": 0,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2957,31 +4957,19 @@
             "objectName": "fondo_seleccionador"
           },
           {
-            "objectName": "Sebas"
-          },
-          {
             "objectName": "Cielo"
           },
           {
             "objectName": "Seleccionador"
           },
           {
-            "objectName": "Ismael"
+            "objectName": "CartaJeins"
           },
           {
-            "objectName": "Santiago"
+            "objectName": "piso"
           },
           {
-            "objectName": "Juan"
-          },
-          {
-            "objectName": "Miguel"
-          },
-          {
-            "objectName": "Val"
-          },
-          {
-            "objectName": "Jeins"
+            "objectName": "piso2"
           }
         ]
       },
@@ -2998,6 +4986,16 @@
                 "Cielo",
                 "+",
                 "20 * TimeDelta()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject",
+                ""
               ]
             }
           ]
@@ -3097,7 +5095,7 @@
                 "value": "SetStringVariable"
               },
               "parameters": [
-                "SelectedCharacter",
+                "PersonajeElegido",
                 "=",
                 "Seleccionador.Character"
               ]
@@ -3203,6 +5201,18 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
           "name": "Resizable",
           "type": "ResizableCapability::ResizableBehavior"
         },
@@ -3235,7 +5245,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6406912462476525,
+        "zoomFactor": 0.619791666666671,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -3253,26 +5263,9 @@
           "name": "piso",
           "persistentUuid": "ebd2d3af-9b20-45b1-881e-ef349886f336",
           "width": 5176,
-          "x": -217,
-          "y": 1010,
+          "x": -185,
+          "y": 1007,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 271,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Jeins",
-          "persistentUuid": "e298f80b-39ee-4a51-bf2a-b70f26c24dcf",
-          "width": 297,
-          "x": 665,
-          "y": 934,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3338,8 +5331,8 @@
           "name": "Fondo",
           "persistentUuid": "f49e5ae3-8ba5-47d1-ac4e-29457b016d69",
           "width": 2180,
-          "x": -6,
-          "y": -153,
+          "x": -14,
+          "y": -150,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -3378,1223 +5371,9 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 207,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Muletas",
-          "persistentUuid": "a1a557b5-25c7-468a-877c-cc76b1ebce9d",
-          "width": 186,
-          "x": 906,
-          "y": 903,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Jeins",
-          "persistentUuid": "c836c6ed-53f6-4e20-99c3-c70816360f45",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "PlatformerCharacterAnimator",
-              "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
-              "EnableAnimationChanges": true,
-              "EnableHorizontalFlipping": true,
-              "IdleAnimationName": "Idle",
-              "RunAnimationName": "Run",
-              "JumpAnimationName": "Jump",
-              "FallAnimationName": "Fall",
-              "ClimbAnimationName": "Climb",
-              "PlatformerBehavior": "PlatformerObject",
-              "Animation": "Animation",
-              "Flippable": "Flippable"
-            },
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "useRepeatedJump": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "Jeins quieto",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.5,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jeins/1794491316410.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 283,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 1639
-                          },
-                          {
-                            "x": 283,
-                            "y": 1639
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jeins/image (2) (1).png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 283,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 1639
-                          },
-                          {
-                            "x": 283,
-                            "y": 1639
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Jeins caminando",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jeins/1794491539082.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 283,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 1639
-                          },
-                          {
-                            "x": 283,
-                            "y": 1639
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jeins/1794491335988.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 283,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 1639
-                          },
-                          {
-                            "x": 283,
-                            "y": 1639
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jeins/1794491390095.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 283,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 1639
-                          },
-                          {
-                            "x": 283,
-                            "y": 1639
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jeins/1794491418345.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 283,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 129
-                          },
-                          {
-                            "x": 1219,
-                            "y": 1639
-                          },
-                          {
-                            "x": 283,
-                            "y": 1639
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Ismael",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_2.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 367
-                          },
-                          {
-                            "x": 17,
-                            "y": 367
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Ismael/ISMA_frame_3.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 10
-                          },
-                          {
-                            "x": 381,
-                            "y": 367
-                          },
-                          {
-                            "x": 17,
-                            "y": 367
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Santiago",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 91,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 352
-                          },
-                          {
-                            "x": 91,
-                            "y": 352
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_3_parpadeo.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 91,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 352
-                          },
-                          {
-                            "x": 91,
-                            "y": 352
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/santiago/SANTI_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 91,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 48
-                          },
-                          {
-                            "x": 341,
-                            "y": 352
-                          },
-                          {
-                            "x": 91,
-                            "y": 352
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Juan",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_4_movimiento_abajo.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_3_movimiento_arriba.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Juan/JUAN_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 28
-                          },
-                          {
-                            "x": 271,
-                            "y": 303
-                          },
-                          {
-                            "x": 19,
-                            "y": 303
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Miguel",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 35,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 349
-                          },
-                          {
-                            "x": 35,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_2_sonrisa_suave.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 35,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 349
-                          },
-                          {
-                            "x": 35,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Miguel/PERSONAJE_04_frame_3_movimiento_arriba.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 35,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 46
-                          },
-                          {
-                            "x": 348,
-                            "y": 349
-                          },
-                          {
-                            "x": 35,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Sebas",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_2_sonrisa_suave.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_3_movimiento_arriba.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/sebastian/PERSONAJE_05_frame_4_regreso.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 74,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 46
-                          },
-                          {
-                            "x": 349,
-                            "y": 349
-                          },
-                          {
-                            "x": 74,
-                            "y": 349
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Val",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 356
-                          },
-                          {
-                            "x": 2,
-                            "y": 356
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_2_sonrisa_suave.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 356
-                          },
-                          {
-                            "x": 2,
-                            "y": 356
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Fondos/Personajes seleccionador/Valentina/PERSONAJE_06_frame_1_original.png",
-                      "points": [
-                        {
-                          "name": "Muleta",
-                          "x": 1028.5,
-                          "y": 1258.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 1047.5,
-                        "y": 1258.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 2
-                          },
-                          {
-                            "x": 373,
-                            "y": 356
-                          },
-                          {
-                            "x": 2,
-                            "y": 356
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
@@ -4926,6 +5705,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Muletas",
+          "persistentUuid": "8b7ae4a4-3755-4546-92e0-60951c30b889",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -4990,9 +5770,6 @@
             "objectName": "piso"
           },
           {
-            "objectName": "Jeins"
-          },
-          {
             "objectName": "Paredes"
           },
           {
@@ -5035,7 +5812,7 @@
               },
               "parameters": [
                 "",
-                "Jeins",
+                "Jugadores",
                 "",
                 "",
                 ""
@@ -5082,7 +5859,7 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Jeins",
+                "Jugadores",
                 "Paredes",
                 ""
               ]
@@ -5114,170 +5891,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Personaje Jeins"
-        },
-        {
-          "aiGeneratedEventId": "01M7BF1VYN4GP5GXA5NGP94YD4",
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "Jeins",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Jeins",
-                "Animation",
-                "=",
-                "\"Jeins caminando\""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "SelectedCharacter",
-                    "=",
-                    "\"Jeins\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Jeins",
-                    "Animation",
-                    "=",
-                    "\"Jeins caminando\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Jeins",
-                    "Animation",
-                    "=",
-                    "SelectedCharacter"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "aiGeneratedEventId": "01M7BF1VYN4GP5GXA5NGP94YD4",
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "Jeins",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Jeins",
-                "Animation",
-                "=",
-                "\"Jeins quieto\""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "SelectedCharacter",
-                    "=",
-                    "\"Jeins\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Jeins",
-                    "Animation",
-                    "=",
-                    "\"Jeins quieto\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Jeins",
-                    "Animation",
-                    "=",
-                    "SelectedCharacter"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "aiGeneratedEventId": "01M7BFTAMK6FBB56SY036BB3S1",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -5292,185 +5905,47 @@
           "actions": [
             {
               "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Jeins",
-                "PlatformerCharacterAnimator",
-                "no"
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "SelectedCharacter",
-                    "!=",
-                    "\"Jeins\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ChangeWidth"
-                  },
-                  "parameters": [
-                    "Jeins",
-                    "=",
-                    "320"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeHeight"
-                  },
-                  "parameters": [
-                    "Jeins",
-                    "=",
-                    "300"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextPressed"
+                "value": "CreateByName"
               },
               "parameters": [
                 "",
-                "\"w\""
+                "Jugadores",
+                "PersonajeElegido",
+                "665",
+                "934",
+                ""
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
-                "value": "HideCursor"
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                ""
+                "Jugadores",
+                "Animation",
+                "=",
+                "\"parado\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetSize"
+              },
+              "parameters": [
+                "Jugadores",
+                "Resizable",
+                "180",
+                "200"
               ]
             }
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
           },
-          "comment": "Arma Jeins\n"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "\"Space\""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Jeins",
-                "Muletas",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "Muletas",
-                "Jeins.X()",
-                "Jeins.Y()",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "TieneMuletas",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "TieneMuletas",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetXY"
-              },
-              "parameters": [
-                "Muletas",
-                "=",
-                "Jeins.X() + 20",
-                "=",
-                "Jeins.Y() + 10"
-              ]
-            },
-            {
-              "type": {
-                "value": "ScalableCapability::ScalableBehavior::SetValue"
-              },
-              "parameters": [
-                "Muletas",
-                "Scale",
-                "=",
-                "0.35"
-              ]
-            }
-          ]
+          "target": "LogicaJugadores"
         }
       ],
       "layers": [
@@ -5597,9 +6072,769 @@
       }
     ]
   },
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "Escena inicial",
+      "name": "LogicaJugadores",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"a\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Jugadores",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"d\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Right\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Jugadores",
+                "Flippable",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"w\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Up\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "parado"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "EstaAtacando",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jugadores",
+                "Animation",
+                "=",
+                "\"parado\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "salto"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "EstaAtacando",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jugadores",
+                "Animation",
+                "=",
+                "\"salta\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "camina"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "Jugadores",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "EstaAtacando",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jugadores",
+                "Animation",
+                "=",
+                "\"camina\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "arma"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"z\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jugadores",
+                "Animation",
+                "=",
+                "\"golpear\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Jugadores",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "Jugadores",
+                    "180",
+                    "0",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Jugadores",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "Jugadores",
+                    "-180",
+                    "0",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "PersonajeElegido",
+                    "=",
+                    "\"Juan\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "armajuan",
+                    "Jugadores.X()",
+                    "Jugadores.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "armajuan",
+                    "Scale",
+                    "=",
+                    "0.15"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "Jugadores",
+                        "Flippable"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "ProyectilesJugadores",
+                        "DirX",
+                        "=",
+                        "-600"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "ProyectilesJugadores",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "Jugadores",
+                        "Flippable"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "ProyectilesJugadores",
+                        "DirX",
+                        "=",
+                        "600"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "ProyectilesJugadores",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "PersonajeElegido",
+                    "=",
+                    "\"Val\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "armaval",
+                    "Jugadores.X()",
+                    "Jugadores.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "armaval",
+                    "Scale",
+                    "=",
+                    "0.15"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "PersonajeElegido",
+                    "=",
+                    "\"Jeins\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "armajeins",
+                    "Jugadores.X()",
+                    "Jugadores.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "armajeins",
+                    "Scale",
+                    "=",
+                    "0.15"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "EstaAtacando",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "Jugadores",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "EstaAtacando",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "ProyectilesJugadores",
+                "ProyectilesJugadores.Variable(DirX)",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Si proyectil se aleja"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "ProyectilesJugadores.X()",
+                ">",
+                "Jugadores.X() + 1000"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ProyectilesJugadores",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "ProyectilesJugadores.X()",
+                "<",
+                "Jugadores.X() - 1000"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ProyectilesJugadores",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "impacto a enemigos"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ]
+    }
+  ],
   "externalEventsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "LogicaJugadores"
+      }
+    ]
   },
   "tests": [
     {
